@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 SlayerX Music 」──
+    ──「 Third eye music 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/e27e233e14eb9f3271885.jpg">
+  <img src="https://telegra.ph/file/2670b043207973278f73b.jpg">
 </p>
 
 <p align="center">
